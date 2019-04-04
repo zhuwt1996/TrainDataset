@@ -1,0 +1,40 @@
+item {
+  id: 1
+  name: 'fridge'
+}
+item {
+  id: 2
+  name: 'microwave oven'
+}
+item {
+  id: 3
+  name: 'door'
+}
+item {
+  id: 4
+  name: 'rice cooker'
+}
+item {
+  id: 5
+  name: 'sofa'
+}
+item {
+  id: 6
+  name: 'stool'
+}
+item {
+  id: 7
+  name: 'stairs'
+}
+item {
+  id: 8
+  name: 'sink'
+}
+item {
+  id: 9
+  name: 'table'
+}item {
+  id: 10
+  name: 'tv'
+}
+
