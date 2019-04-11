@@ -1,40 +1,99 @@
 item {
   id: 1
-  name: 'fridge'
+  name: 'person'
 }
 item {
   id: 2
-  name: 'microwave oven'
+  name: 'bicycle'
 }
 item {
   id: 3
-  name: 'door'
+  name: 'car'
 }
 item {
   id: 4
-  name: 'rice cooker'
+  name: 'bus'
 }
 item {
   id: 5
-  name: 'sofa'
+  name: 'umbrella'
 }
 item {
   id: 6
-  name: 'stool'
+  name: 'suitcase'
 }
 item {
   id: 7
-  name: 'stairs'
+  name: 'bottle'
 }
 item {
   id: 8
-  name: 'sink'
+  name: 'cup'
 }
 item {
   id: 9
-  name: 'table'
-}item {
+  name: 'chair'
+}
+item {
   id: 10
+  name: 'bed'
+}
+item {
+  id: 11
+  name: 'dining table'
+}
+item {
+  id: 12
+  name: 'toilet'
+}
+item {
+  id: 13
   name: 'tv'
 }
+item {
+  id: 14
+  name: 'laptop'
+}
+item {
+  id: 15
+  name: 'mouse'
+}
+item {
+  id: 16
+  name: 'remote'
+}
+item {
+  id: 17
+  name: 'keyboard'
+}
+item {
+  id: 18
+  name: 'cell phone'
+}
+item {
+  id: 19
+  name: 'microwave'
+}
+item {
+  id: 20
+  name: 'oven'
+}
+item {
+  id: 21
+  name: 'sink'
+}item {
+  id: 22
+  name: 'refrigerator'
+}
+item {
+  id: 23
+  name: 'book'
+}
+item {
+  id: 24
+  name: 'clock'
+}
+
+
+
 

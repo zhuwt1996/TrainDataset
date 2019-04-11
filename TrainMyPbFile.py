@@ -20,7 +20,7 @@ class TOD(object):
         # List of the strings that is used to add correct label for each box.
         self.PATH_TO_LABELS = 'E:/ot/training/data_label_map.pbtxt'
         # 分类数量
-        self.NUM_CLASSES = 10
+        self.NUM_CLASSES = 24
 
         self.detection_graph = self._load_model()
         self.category_index = self._load_label_map()
